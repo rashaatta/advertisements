@@ -8,11 +8,11 @@ campaign consists of fields:
 | field  | type | description |
 | :---:  | :---: | :---: |
 | name   | string | advertising campaign name|
-| from   | date | |
-| to   | date | |
+| from   | date | Advertising campaign starting date |
+| to   | date | Advertising campaign ending date |
 | total   | float  | 2 decimal places |
 | daily_budget   | float  | 2 decimal places |
-| image   | file | Can accept more than one image |
+| images   | file | Can accept more than one image in the same field |
 
 #### User should be able to:
 
