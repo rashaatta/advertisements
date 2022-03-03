@@ -72,6 +72,15 @@ Open this task file [htm-css3.pdf](htm-css3.pdf) it is a random sections of a ho
 
 #### Tasks Submission
 
-You can put the code publicly (in GitHub or a similar code control system) and send the link to us or send it in your
-favorite archive file format.
+- Upload and deploy your project to any hosting server (separate link foreach front-end and back-end tasks)
+- Upload your project to a GitHub repo (or any similar version control system)
+- Send all these details as replay to the email you received with the task.
+
+Thanks in advance. 
+<br>
+EightyThree
+<br>
+The key of creative ! 🔑
+
+
 
