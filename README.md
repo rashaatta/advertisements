@@ -1,6 +1,7 @@
 ## 83 hiring task
 
-### Task description
+
+## Back End
 
 Using the Laravel framework you will need to create a simple application for managing advertising campaigns. Advertising
 campaign consists of fields:
@@ -57,8 +58,15 @@ campaign consists of fields:
 -  all requirements must be met
 - code quality (- it's maintainability, extensibility, testability; the speed of the system can also be considered but is not as important as other criteria.)
 
-#### Task Submission
+
+
+## Font End
+Open this task file [htm-css3.pdf](htm-css3.pdf) it is a random sections of a home page design. 
+- You are free to use any css library
+- It must be responsive with mobile screens
+- Using css preprocessors ```Sass, LESS or Stylus``` is a plus
+
+
+#### Tasks Submission
 You can put the code publicly (in GitHub or a similar code control system) and send the link to us or send it in your favorite archive file format.
-
-
 
